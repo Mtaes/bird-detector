@@ -1,0 +1,14 @@
+-f https://download.pytorch.org/whl/cu113/torch_stable.html
+
+black
+isort
+matplotlib
+numpy
+opencv-python
+Pillow
+pytorch-lightning
+torch==1.10.2+cu113
+torchaudio==0.10.2+cu113
+torchmetrics
+torchvision==0.11.3+cu113
+tqdm
